@@ -18,8 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](image.png)
 
-### Links
-- Live Site URL: [Live-Site](https://andrian-w.github.io/qr-code-andrian-w.github.io/)
+
 
 ## My process
 
